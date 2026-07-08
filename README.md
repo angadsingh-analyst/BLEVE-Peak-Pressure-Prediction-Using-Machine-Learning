@@ -47,7 +47,7 @@ The project demonstrates an end-to-end predictive analytics workflow: data clean
 
 ## Data Availability
 
-The original training and test data are not included in this public portfolio version. This is intentional to avoid sharing coursework, private benchmark or restricted dataset material. The notebook is provided to demonstrate the workflow, modelling approach and project structure.
+This private repository includes the original assessment data files for personal reproducibility. These files should not be redistributed publicly.
 
 ## How to Run
 
